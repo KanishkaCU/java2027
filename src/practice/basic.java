@@ -37,6 +37,7 @@ public class basic {
 //		System.out.println(a+b);
 //	}
 //	5)
+	public static void main(String[ args]);
 	
 }
 
