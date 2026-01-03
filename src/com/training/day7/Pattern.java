@@ -37,7 +37,8 @@ public class Pattern {
 //		{
 //			for(int col=row ; col<=n ; col++)
 //				System.out.print(col);
-////
+//		}
+//
 ////		
 //}
 		
@@ -57,20 +58,20 @@ public class Pattern {
 //		}
 //		
 		
-		int n = 5;
-		for(int row=1 ; row<=n ; row++ , System.out.println())
-
-		{
-			
-			for(int space=1 ; space<row ; space++) System.out.print(" ");
-		
-
-			for(int col=row ; col<=n ; col++)
-				System.out.print("*");
-			
-			
-		}
-		
+//		int n = 5;
+//		for(int row=1 ; row<=n ; row++ , System.out.println())
+//
+//		{
+//			
+//			for(int space=1 ; space<row ; space++) System.out.print(" ");
+//		
+//
+//			for(int col=row ; col<=n ; col++)
+//				System.out.print("*");
+//			
+//			
+//		}
+//		
 		
 		
 		
